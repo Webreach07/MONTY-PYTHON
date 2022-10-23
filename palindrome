@@ -3,10 +3,10 @@ def isPalindrome(s):
  
  
 # Driver code
-s = "malayalam"
-ans = isPalindrome(s)
+s = input("Enter a Word to check whether it is Palindrome or not")#To Enter a Word using String
+ans = isPalindrome(s)#condition
  
 if ans:
-    print("Yes")
+    print("Yes, The Word is a Palindrome")#display This Statement if the word is a Palindrome
 else:
-    print("No")
+    print("No, The Word is not a Palindrome")#display This Statement if the word is a Palindrome
