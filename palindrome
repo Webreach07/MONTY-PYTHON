@@ -9,4 +9,4 @@ ans = isPalindrome(s)#condition
 if ans:
     print("Yes, The Word is a Palindrome")#display This Statement if the word is a Palindrome
 else:
-    print("No, The Word is not a Palindrome")#display This Statement if the word is a Palindrome
+    print("No, The Word is not a Palindrome")#display This Statement if the word is not a Palindrome
