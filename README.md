@@ -1,5 +1,8 @@
 # MONTY-PYTHON
 sensitive python language
+
+rust 
+
 rus 
-t 
+
 object oriented 
