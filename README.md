@@ -2,3 +2,4 @@
 sensitive python language
 rus 
 t 
+object oriented 
